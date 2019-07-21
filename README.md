@@ -1,0 +1,2 @@
+# Time_Series_ARIMA_model_over_shampoo_sales_data
+Time_Series_ARIMA_model_over_shampoo_sales_data
